@@ -54,8 +54,7 @@ Figure 2 shows the daily close price of KHC from May.6 2015 to Dec.2 2022. The X
 Agnihotri, Arpita, and Saurabh Bhattacharya. "Growth Strategic Options of Kraft Heinz." SAGE Business Cases. SAGE Publications: SAGE Business Cases Originals, 2021. https://dx.doi.org/10.4135/9781529754216
 
 Instructions for GitHub Readme:
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatt
-ing-on-github/basic-writing-and-formatting-syntax
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
