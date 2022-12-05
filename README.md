@@ -23,6 +23,7 @@
 
 
 ## Code
+- Code Source: [Sample Code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction)
 - [Process Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)
 - [Analyze Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_KHC_stock_price.ipynb)
 - [Explanation Part Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Explanation_Data.ipynb)
@@ -50,14 +51,28 @@ Figure 2 shows the daily close price of KHC from May.6 2015 to Dec.2 2022. The X
 
 ## References
 
-### Data Source
-- Data Source Title and URL
-### Code Source
-- Code Source Title and URL
-### Articles
-- Article Source Title and URL
-### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
+Zhang, L. (Sunshine). (2022). Machine Learning for Predictions. Machine Learning for Social
+Science. Retrieved from https://ms.pubpub.org/pub/ml-prediction
+
+Zhang, L. (Sunshine). (2022). Venues for Computer Security and Beyond. Machine Learning for
+Social Science. Retrieved from https://ms.pubpub.org/pub/security
+
+Zhang, L. (Sunshine). (2022). Venues for Machine Learning&nbsp; Machine Learning for
+Social Science. Retrieved from https://ms.pubpub.org/pub/ml
+
+Zhang, L. (Sunshine). (2022). Computing Platforms: Set up the Workspace for Machine
+Learning Projects. Machine Learning for Social Science. Retrieved from
+https://ms.pubpub.org/pub/computing
+
+Zhang, L. (Sunshine). (2022). Resources for Blockchain Network Studies. Machine Learning for
+Social Science. Retrieved from https://ms.pubpub.org/pub/network
+
+Instructions for GitHub Readme:
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatt
+ing-on-github/basic-writing-and-formatting-syntax
+
+Sample Code for Prediction:
+https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
