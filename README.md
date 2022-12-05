@@ -6,6 +6,10 @@
 - **Acknowledgments**: Prof. Luyao Zhang, [Plotly](https://plotly.com/python/), [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/), [Yahoo Finance](https://finance.yahoo.com/)
 - **Project Summary**: 
 
+In Part I, we visualized the change of decentralization degree of [Lusd](https://www.liquity.org/) token along time. We plotted it by heat map, which is an intuitive way to visualize the tendency of the decentralization degree of a certain token. 
+
+In part II, we predicted the stock price tendency of [Kraft Heinz Company(KHC)](https://www.kraftheinzcompany.com/) with [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) machine learning approach. Since Warren Buffet lost a lot in the big stock collapse of Kraft Heinz ([Agnihotri, Arpita, and Saurabh Bhattacharya.](https://dx.doi.org/10.4135/9781529754216), 2021), and he prefers fundamental analysis rather than technical analysis ([financialstockdata.com](https://www.financialstockdata.com/warren_buffett_ta), 2022). It is worth trying machine learning prediction method to verify if technical analysis could have saved his loss.
+
 ## Table of Contents
 | Tables        | Part I Explanatory           | Part II Prediction and Classification   |
 | ------------- |:-------------:| -----:|
@@ -52,6 +56,8 @@ Figure 2 shows the daily close price of KHC from May.6 2015 to Dec.2 2022. The X
 ## References
 
 Agnihotri, Arpita, and Saurabh Bhattacharya. "Growth Strategic Options of Kraft Heinz." SAGE Business Cases. SAGE Publications: SAGE Business Cases Originals, 2021. https://dx.doi.org/10.4135/9781529754216
+
+Financialstockdata.com. "Warren Buffett on Technical analysis and Trading". 2022. https://www.financialstockdata.com/warren_buffett_ta
 
 Instructions for GitHub Readme:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
