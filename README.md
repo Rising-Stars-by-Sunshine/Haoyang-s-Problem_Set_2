@@ -4,11 +4,12 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Prof. Luyao Zhang, [Plotly](https://plotly.com/python/), [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/), [Yahoo Finance](https://finance.yahoo.com/)
-- **Project Intro**: 
 
-In Part I, we visualized the change of decentralization degree of [Lusd](https://www.liquity.org/) token along time. We plotted it by heat map, which is an intuitive way to visualize the tendency of the decentralization degree of a certain token. 
+**Project Summary**: 
 
-In part II, we predicted the stock price tendency of [Kraft Heinz Company(KHC)](https://www.kraftheinzcompany.com/) with [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) machine learning approach. Since Warren Buffet lost a lot in the big stock collapse of Kraft Heinz ([Agnihotri, Arpita, and Saurabh Bhattacharya.](https://dx.doi.org/10.4135/9781529754216), 2021), and he prefers fundamental analysis rather than technical analysis ([financialstockdata.com](https://www.financialstockdata.com/warren_buffett_ta), 2022). It is worth trying machine learning prediction method to verify if technical analysis could have saved his loss.
+In Part I, we visualized the change of decentralization degree of [Lusd](https://www.liquity.org/) token along time. We plotted it by heat map, which is an intuitive way to visualize the tendency of the decentralization degree of a certain token. The brighter box means the decentralization index is increasing during the corresponding period. By observing the corresponding index value of each bright box, we found they are decreasing, so we conclude that the decentralization degree of Lusd is weaker from Apr.2020 to Oct.2022.
+
+In part II, we predicted the stock price tendency of [Kraft Heinz Company(KHC)](https://www.kraftheinzcompany.com/) with [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) machine learning approach. Since Warren Buffet lost a lot in the big stock collapse of Kraft Heinz ([Agnihotri, Arpita, and Saurabh Bhattacharya.](https://dx.doi.org/10.4135/9781529754216), 2021), and he prefers fundamental analysis rather than technical analysis ([financialstockdata.com](https://www.financialstockdata.com/warren_buffett_ta), 2022). It is worth trying machine learning prediction method to verify if technical analysis could have saved his loss. We tried let the algorithm learn the weekly average close price in the past 6 years (2015-2021), then ask the algorithm to predict the weekly average close price from Jan.9 2022 to Dec.11 2022, the the close stock price of KHC will present an increase tendency, which matches the general tendency in the real market.
 
 ## Table of Contents
 | Tables        | Part I Explanatory           | Part II Prediction and Classification   |
