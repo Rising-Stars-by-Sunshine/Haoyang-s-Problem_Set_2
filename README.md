@@ -28,12 +28,12 @@
 - [Explanation Part Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Explanation_Data.ipynb)
 
 ## Spotlight
-- Figures
-- Posters
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+
+### Part I Explanatory
+![image](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/spotlight/figures/Decentra_Index_Lusd.png)
+
+**Figure 1: Decentralization Index of the Lusd Token shown in heat map**
+Figure 1 shows the Decentralization Index of Lusd token from Apr. 2020 to Oct. 2022. The X-axis represents the date and Y-axis represents the decentralization value.
 
 ## References
 
