@@ -3,7 +3,7 @@
 - **Author**: Haoyang Yu, Applied Mathematics & Computational Sciences, class 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: Prof. Luyao Zhang, [Plotly](https://plotly.com/python/), [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
+- **Acknowledgments**: Prof. Luyao Zhang, [Plotly](https://plotly.com/python/), [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/), [Yahoo Finance](https://finance.yahoo.com/)
 - **Project Summary**: 
 
 ## Table of Contents
@@ -17,17 +17,15 @@
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+- Data Source: [Yahoo Finance](https://finance.yahoo.com/quote/KHC/history?p=KHC), [SoK: Blockchain Decentralization](https://arxiv.org/abs/2205.04256)
+- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/data/Queried_Data/KHC.csv)
+- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/tree/main/data/Processed_Data)
 
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+- [Process Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)
+- [Analyze Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_KHC_stock_price.ipynb)
+- [Explanation Part Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Explanation_Data.ipynb)
 
 ## Spotlight
 - Figures
