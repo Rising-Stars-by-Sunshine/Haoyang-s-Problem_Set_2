@@ -4,7 +4,7 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: Prof. Luyao Zhang, [Plotly](https://plotly.com/python/), [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/), [Yahoo Finance](https://finance.yahoo.com/)
-- **Project Summary**: 
+- **Project Intro**: 
 
 In Part I, we visualized the change of decentralization degree of [Lusd](https://www.liquity.org/) token along time. We plotted it by heat map, which is an intuitive way to visualize the tendency of the decentralization degree of a certain token. 
 
