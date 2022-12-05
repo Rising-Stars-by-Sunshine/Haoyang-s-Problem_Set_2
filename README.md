@@ -51,6 +51,17 @@ Figure 2 shows the daily close price of KHC from May.6 2015 to Dec.2 2022. The X
 
 ## References
 
+Agnihotri, Arpita, and Saurabh Bhattacharya. "Growth Strategic Options of Kraft Heinz." SAGE Business Cases. SAGE Publications: SAGE Business Cases Originals, 2021. https://dx.doi.org/10.4135/9781529754216
+
+Instructions for GitHub Readme:
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatt
+ing-on-github/basic-writing-and-formatting-syntax
+
+Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+
+Sample Code for Prediction:
+https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
+
 Yahoo Finance. (2022). The Kraft Heinz Company (KHC) Historical Data. Queried from https://finance.yahoo.com/quote/KHC/history?p=KHC
 
 Zhang, L. (Sunshine). (2022). Machine Learning for Predictions. Machine Learning for Social
@@ -68,12 +79,3 @@ https://ms.pubpub.org/pub/computing
 
 Zhang, L. (Sunshine). (2022). Resources for Blockchain Network Studies. Machine Learning for
 Social Science. Retrieved from https://ms.pubpub.org/pub/network
-
-Instructions for GitHub Readme:
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatt
-ing-on-github/basic-writing-and-formatting-syntax
-
-Sample Code for Prediction:
-https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction
-
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
