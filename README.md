@@ -3,14 +3,16 @@
 - **Author**: Haoyang Yu, Applied Mathematics & Computational Sciences, class 2024, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
-- **Project Summary**: [Summarize the Background/Motivation, Research Questions, Application Scenario (Data Source), Results, Intellectual Merits and Practical impacts of your project.]
+- **Acknowledgments**: Prof. Luyao Zhang, [Plotly](https://plotly.com/python/), [ARIMA](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
+- **Project Summary**: 
 
 ## Table of Contents
-- data
-- code
-- spotlight
+| Tables        | Part I Explanatory           | Part II Prediction and Classification   |
+| ------------- |:-------------:| -----:|
+| code        | [Explanation Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Explanation_Data.ipynb) | [Process Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb), [Prediction Code](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/code/Analyze_Data_Machine_Learning_for_Predicting_KHC_stock_price.ipynb) |
+| data        | [Part I Lusd Data](https://github.com/HaoyangMarcusYu/portfolio/blob/main/data/Processed_Data/Lusd_Processed.csv)      |   [Part II Raw & Train & Test data](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/tree/main/data) |
+| image      | [Part I Explaination image](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/spotlight/figures/Decentra_Index_Lusd.png)     |  [Part II KHC stock price prediction](https://github.com/Rising-Stars-by-Sunshine/Haoyang_Problem_Set_2/blob/main/spotlight/figures/KHC_Stock_Pred.png) |
+
 
 
 
